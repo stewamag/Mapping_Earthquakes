@@ -11,10 +11,10 @@ Different styles of map can be toggled through by the user based on their prefer
 ## Outcome
 
 ### Tectonic Plates:
-<img width="1335" alt="Screen Shot 2022-10-17 at 4 43 09 PM" src="https://user-images.githubusercontent.com/106691255/196304388-af44082f-e2ea-4e58-9265-fa667a55ec10.png">
+<img width="1336" alt="Screen Shot 2022-10-17 at 4 43 30 PM" src="https://user-images.githubusercontent.com/106691255/196304362-5659c8cc-fa6d-4d2d-a8f6-02c767f2a909.png">
 
 ### Major Earthquakes:
-<img width="1335" alt="Screen Shot 2022-10-17 at 4 42 51 PM" src="https://user-images.githubusercontent.com/106691255/196304401-e7b68071-7f14-43e7-b978-454af5fab7b6.png">
+<img width="1335" alt="Screen Shot 2022-10-17 at 4 43 09 PM" src="https://user-images.githubusercontent.com/106691255/196304388-af44082f-e2ea-4e58-9265-fa667a55ec10.png">
 
 ### Dark Map with all data sets:
-<img width="1336" alt="Screen Shot 2022-10-17 at 4 43 30 PM" src="https://user-images.githubusercontent.com/106691255/196304362-5659c8cc-fa6d-4d2d-a8f6-02c767f2a909.png">
+<img width="1335" alt="Screen Shot 2022-10-17 at 4 42 51 PM" src="https://user-images.githubusercontent.com/106691255/196304401-e7b68071-7f14-43e7-b978-454af5fab7b6.png">
